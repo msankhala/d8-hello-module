@@ -1,0 +1,6 @@
+name: Hello World!
+type: module
+description: 'Displays a Hello World page.'
+package: Example Modules
+version: VERSION
+core: 8.x
